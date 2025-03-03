@@ -1,0 +1,28 @@
+.app {
+  font-family: 'Arial', sans-serif;
+  padding: 16px;
+  text-align: center;
+  min-height: 100vh;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #d35400;
+  margin-bottom: 24px;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 1fr);
+  gap: 16px;
+  width: 100%;
+  max-width: 1000px;
+  justify-items: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #fff0e5; 
+}
