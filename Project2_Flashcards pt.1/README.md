@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 * [x] Clicking the previous button displays the last viewed card.
 
-## Video Walkthrough$$
+## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
